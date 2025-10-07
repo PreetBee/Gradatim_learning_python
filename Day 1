@@ -1,2 +1,7 @@
 #Day 1: Start with writing Hello World
 print("Hello world!")
+#Project for day 1: Band name generator 
+print("Hello! Welcome to Band Name Generator!")
+town = input("what's name of your hometown:\n ")
+pet_name = input("tell me the name of pet?\n ")
+print("Your band name is " + town + pet_name)
